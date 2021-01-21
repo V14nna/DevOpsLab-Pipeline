@@ -6,7 +6,7 @@
 
 <h3  align="center">
 
-DevOps na Prática - Criando uma Pipeline do Zero
+DevOps na Prática - Criando uma Pipeline do Zero - teste
 
 </h3>
 
